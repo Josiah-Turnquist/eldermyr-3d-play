@@ -1,0 +1,12 @@
+{
+  "name": "Realms of Eldermyr",
+  "short_name": "Eldermyr",
+  "description": "A cozy, flashy 3D action-RPG across the nine regions of Eldermyr.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0b0a14",
+  "theme_color": "#0b0a14",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
